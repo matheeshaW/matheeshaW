@@ -57,4 +57,4 @@ I'm a **Software Engineering Student** passionate about **Full-Stack Web Develop
 
 ---
 
-⭐ **Fun Fact:** *Code, Coffee, Repeat! ☕🚀*
+⭐ **Fun Fact:** *Code, Gaming , F1 , Repeat! ☕🚀*
