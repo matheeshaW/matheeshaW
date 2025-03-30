@@ -5,7 +5,7 @@ I'm a **Software Engineering Student** passionate about **Full-Stack Web Develop
 ---
 
 ### 🔥 About Me:
-- 🎓 **2nd Year, 2nd Semester** Software Engineering student.
+- 🎓 **Undergraduate** Software Engineering student.
 - 🚀 Currently working on a **MERN Stack project: Spice Store and Management System**.
 - 📱 Learning **React & Mobile App Development (Android - Kotlin/XML)**.
 - 🌱 Exploring **Laravel**.
